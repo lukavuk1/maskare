@@ -1,0 +1,1 @@
+print("idemo u centar u 10 vracamo se u skolu u 11")
