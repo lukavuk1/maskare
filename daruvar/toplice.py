@@ -1,1 +1,0 @@
-print("maskare u druvaru toplice")
