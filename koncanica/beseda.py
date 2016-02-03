@@ -1,0 +1,1 @@
+print("maskare u koncanici beseda")
